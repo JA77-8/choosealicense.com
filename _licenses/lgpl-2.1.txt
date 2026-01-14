@@ -1,4 +1,4 @@
----
+---jesus Adrian sanchez maldonado 
 title: GNU Lesser General Public License v2.1
 spdx-id: LGPL-2.1
 nickname: GNU LGPLv2.1
